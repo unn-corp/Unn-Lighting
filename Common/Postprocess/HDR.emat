@@ -1,0 +1,5 @@
+HDREffect : "{9DEECCABE8357209}Common/Postprocess/HDR.emat" {
+ VisiblePercentBlack 5
+ SpeedDarkToBright 100
+ SpeedBrightToDark 25
+}
